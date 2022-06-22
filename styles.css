@@ -8,7 +8,7 @@
 }
 
 .bg-img {
-    background: url(./assets/images/pain.jpg);
+    background: url(./assets/images/purple.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -35,9 +35,7 @@
     width: 370px;
     transform: translate(-50%, -50%);
     background: rgba(255, 255, 255, 0.133);
-
     border: 1px solid #fff;
-    backdrop-filter: blur(3px);
     box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0.203);
 }
 
